@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 /**
- * main - Entry point
+ * main - Entry point of my code
  * Description: *prints _putchar to stdout*
- * return: Always: 0 (success)
+ * return: Always: 0
  */
 int main(void)
 {
